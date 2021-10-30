@@ -1,4 +1,5 @@
 # Investigate-European-Soccer-Database
+## Project for udacity data analyst nanodegree
 * European Soccer Database consists of multiple tables in ".sqlite" format
 * The database has recorded information about 25,000 matches from 2008 to 2016
 * The matches are from local leagues not from European competations like UCL or UEL
@@ -7,7 +8,7 @@
 **Used Pandas, NumPy and SQLite**
 
 
->> Which teams improved through the years?
+>> - Which teams improved through the years?
 >> - Compare home and away records for European teams.
 >> - Find which teams scored the most goals, both in home and away from home.
 >> - Explore Players with most wins and which attributes they have.
