@@ -15,3 +15,5 @@
 >> - Compare different teams through different eras/seasons to know which was the strongest; like Sir Alex Ferguson's Manchester United in 2008/09, Carlo Ancelotti's Real Madrid in 2013/14 or Pep Guardiola's Barcelona in 2008/09.
 >> - Main focuses in the analysis is be around wins and scored goals.
 
+### Data
+*https://www.kaggle.com/hugomathien/soccer*
