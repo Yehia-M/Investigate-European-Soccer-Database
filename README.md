@@ -5,7 +5,7 @@
 * The matches are from local leagues not from European competations like UCL or UEL
 * The database contains players attributes sourced from EA Sports FIFA
 
-**Used Pandas, NumPy and SQLite**
+**Used Pandas, NumPy, Matplotlib and SQLite**
 
 
 >> - Which teams improved through the years?
